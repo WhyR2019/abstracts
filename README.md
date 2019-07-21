@@ -17,13 +17,12 @@
   </tr>
   <tr>
     <td>08:00-08:30</td>
-    <td>Registration</td>
+    <td rowspan="2">Registration</td>
     <td colspan="2">Registration</td>
     <td colspan="2" rowspan="2">Registration</td>
   </tr>
   <tr>
     <td>08:30-09:00</td>
-    <td></td>
     <td colspan="2">Welcome Session</td>
   </tr>
   <tr>
