@@ -34,13 +34,11 @@
   </tr>
   <tr>
     <td>09:45-10:00</td>
-    <td></td>
     <td colspan="2">Coffee Break</td>
     <td colspan="2">Coffee Break</td>
   </tr>
   <tr>
     <td>10:00-11:20</td>
-    <td></td>
     <td><a href="https://github.com/WhyR2019/abstracts/tree/master/Modelling">Modelling</a></td>
     <td><a href="https://github.com/WhyR2019/abstracts/tree/master/Shiny">Shiny</a></td>
     <td><a href="https://github.com/WhyR2019/abstracts/tree/master/Philosophy">Philosophy</a></td>
@@ -48,13 +46,11 @@
   </tr>
   <tr>
     <td>11:20-11:35</td>
-    <td></td>
     <td colspan="2">Coffee Break</td>
     <td colspan="2">Coffee Break</td>
   </tr>
   <tr>
     <td>11:35-12:35</td>
-    <td></td>
     <td><a href="https://github.com/WhyR2019/abstracts/tree/master/API">API</a></td>
     <td><a href="https://github.com/WhyR2019/abstracts/tree/master/Scoring">Scoring</a></td>
     <td><a href="https://github.com/WhyR2019/abstracts/tree/master/EDA">EDA</a></td>
@@ -74,13 +70,11 @@
   </tr>
   <tr>
     <td>14:50-15:05</td>
-    <td></td>
     <td colspan="2">Coffee Break</td>
     <td colspan="2">Coffee Break</td>
   </tr>
   <tr>
     <td>15:05-16:05</td>
-    <td></td>
     <td><a href="https://github.com/WhyR2019/abstracts/tree/master/Bio">BIO 1</a></td>
     <td><a href="https://github.com/WhyR2019/abstracts/tree/master/Geo">GEO</a></td>
     <td><a href="https://github.com/WhyR2019/abstracts/tree/master/Vision">Vision 1</a></td>
@@ -88,13 +82,11 @@
   </tr>
   <tr>
     <td>16:05:16:20</td>
-    <td></td>
     <td colspan="2">Coffee Break</td>
     <td colspan="2">Coffee Break</td>
   </tr>
   <tr>
     <td>16:20-17:20</td>
-    <td></td>
     <td><a href="https://github.com/WhyR2019/abstracts/tree/master/Bio">BIO 2</a></td>
     <td><a href="https://github.com/WhyR2019/abstracts/tree/master/Business">Business</a></td>
     <td><a href="https://github.com/WhyR2019/abstracts/tree/master/Vision">Vision 1</a></td>
@@ -102,7 +94,6 @@
   </tr>
   <tr>
     <td>17:20-17:35</td>
-    <td></td>
     <td colspan="2">Coffee Break</td>
     <td colspan="2">Coffee Break</td>
   </tr>
