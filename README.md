@@ -28,7 +28,7 @@
   </tr>
   <tr>
     <td>09:00:09:45</td>
-    <td>Morning Workshops</td>
+    <td rowspan="5">Morning Workshops</td>
     <td colspan="2">Marvin Wright</td>
     <td colspan="2">Steph Locke</td>
   </tr>
@@ -68,7 +68,7 @@
   </tr>
   <tr>
     <td>14:05-14:50</td>
-    <td>Afternoon Workshops</td>
+    <td rowspan="6">Afternoon Workshops</td>
     <td colspan="2">Jakub Nowosad</td>
     <td colspan="2">Wit Jakuczun</td>
   </tr>
