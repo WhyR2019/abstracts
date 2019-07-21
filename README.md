@@ -3,7 +3,7 @@
 <img src="https://raw.githubusercontent.com/WhyR2019/abstracts/master/agenda.jpg"
      alt="agenda" />
 
-<table class="tg">
+<table>
   <tr>
     <th></th>
     <th>Workshops</th>
@@ -41,10 +41,10 @@
   <tr>
     <td>10:00-11:20</td>
     <td></td>
-    <td>[Modelling](https://github.com/WhyR2019/abstracts/tree/master/Modelling)</td>
-    <td>[Shiny](https://github.com/WhyR2019/abstracts/tree/master/Shiny)</td>
-    <td>[Philosophy](https://github.com/WhyR2019/abstracts/tree/master/Philosophy)</td>
-    <td>[Text Mining](https://github.com/WhyR2019/abstracts/tree/master/Text%20mining)</td>
+    <td><a href="https://github.com/WhyR2019/abstracts/tree/master/Modelling">Modelling</a></td>
+    <td><a href="https://github.com/WhyR2019/abstracts/tree/master/Shiny">Shiny</a></td>
+    <td><a href="https://github.com/WhyR2019/abstracts/tree/master/Philosophy">Philosophy</a></td>
+    <td><a href="https://github.com/WhyR2019/abstracts/tree/master/Text%20mining">Text Mining</a></td>
   </tr>
   <tr>
     <td>11:20-11:35</td>
@@ -55,10 +55,10 @@
   <tr>
     <td>11:35-12:35</td>
     <td></td>
-    <td>[API](https://github.com/WhyR2019/abstracts/tree/master/API)</td>
-    <td>[Scoring](https://github.com/WhyR2019/abstracts/tree/master/Scoring)</td>
-    <td>[EDA](https://github.com/WhyR2019/abstracts/tree/master/EDA)</td>
-    <td>[XAI](https://github.com/WhyR2019/abstracts/tree/master/XAI)</td>
+    <td><a href="https://github.com/WhyR2019/abstracts/tree/master/API">API</a></td>
+    <td><a href="https://github.com/WhyR2019/abstracts/tree/master/Scoring">Scoring</a></td>
+    <td><a href="https://github.com/WhyR2019/abstracts/tree/master/EDA">EDA</a></td>
+    <td><a href="https://github.com/WhyR2019/abstracts/tree/master/XAI">XAI</a></td>
   </tr>
   <tr>
     <td>12:35-14:05</td>
@@ -81,10 +81,10 @@
   <tr>
     <td>15:05-16:05</td>
     <td></td>
-    <td>[BIO 1](https://github.com/WhyR2019/abstracts/tree/master/Bio)</td>
-    <td>[GEO](https://github.com/WhyR2019/abstracts/tree/master/Geo)</td>
-    <td>[Vision 1](https://github.com/WhyR2019/abstracts/tree/master/Vision)</td>
-    <td>[Lightning 1](https://github.com/WhyR2019/abstracts/tree/master/Lightnings)</td>
+    <td><a href="https://github.com/WhyR2019/abstracts/tree/master/Bio">BIO 1</a></td>
+    <td><a href="https://github.com/WhyR2019/abstracts/tree/master/Geo">GEO</a></td>
+    <td><a href="https://github.com/WhyR2019/abstracts/tree/master/Vision">Vision 1</a></td>
+    <td><a href="https://github.com/WhyR2019/abstracts/tree/master/">Lightning 1</a></td>
   </tr>
   <tr>
     <td>16:05:16:20</td>
@@ -95,10 +95,10 @@
   <tr>
     <td>16:20-17:20</td>
     <td></td>
-    <td>[BIO 2](https://github.com/WhyR2019/abstracts/tree/master/Bio)</td>
-    <td>[Business](https://github.com/WhyR2019/abstracts/tree/master/Business)</td>
-    <td>[Vision 2](https://github.com/WhyR2019/abstracts/tree/master/Vision)</td>
-    <td>[Lightning 2](https://github.com/WhyR2019/abstracts/tree/master/Lightnings)</td>
+    <td><a href="https://github.com/WhyR2019/abstracts/tree/master/Bio">BIO 2</a></td>
+    <td><a href="https://github.com/WhyR2019/abstracts/tree/master/Business">Business</a></td>
+    <td><a href="https://github.com/WhyR2019/abstracts/tree/master/Vision">Vision 1</a></td>
+    <td><a href="https://github.com/WhyR2019/abstracts/tree/master/">Lightning 1</a></td>
   </tr>
   <tr>
     <td>17:20-17:35</td>
