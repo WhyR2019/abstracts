@@ -2,7 +2,7 @@
 
 Author: Szymon Maksymiuk (MI2 DataLab / MiNI PW)
 
-# Descripition
+# Description
 
 Friend of yours dared to claim that his model is better only because was built in Python or Julia?  Time to help you in your rightful battle against anyone who opposes superiority of your model!
 

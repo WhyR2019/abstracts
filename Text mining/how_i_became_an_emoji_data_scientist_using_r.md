@@ -2,7 +2,7 @@
 
 Author: Hamdan Azhar (PRISMOJI)
 
-# Descripition
+# Description
 
 Emojis have been called a “new type of language.” According to statistics cited by Ad Week, as much as 92% of the online population uses emojis. Twitter reports that since 2014 alone, over 110 billion emojis have been tweeted. 
 

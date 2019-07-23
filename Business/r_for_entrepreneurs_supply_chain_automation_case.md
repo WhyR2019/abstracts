@@ -2,7 +2,7 @@
 
 Author: Francois Jacquet (artinlean sp. zoo)
 
-# Descripition
+# Description
 
 I would like to share the journey I took to build from scratch a production grade machine learning workflow for automated stock and sales management, with emphasis on : 
 

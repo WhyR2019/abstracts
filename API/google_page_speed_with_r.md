@@ -2,7 +2,7 @@
 
 Author: Leszek Sieminski (Ringier Axel Springer Polska)
 
-# Descripition
+# Description
 
 One of more both important and tedious tasks in digital marketing is to optimize website loading. Firstly, introduce the concept and show what tools are required to perform an analysis (with an example). Secondly, I will describe how to enhance the tools' capabilities by using web API and show good practices on a real-world package. Finally, I will also shortly describe the architecture of the code and how to use the results to improve website loading time.
 

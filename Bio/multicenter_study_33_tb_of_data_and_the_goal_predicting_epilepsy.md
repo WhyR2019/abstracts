@@ -4,7 +4,7 @@ Author: Glowacka Jagoda (Transition Technologies S.A.)
 
 Co-authors: Kamil Sijko, Konrad Wojdan
 
-# Descripition
+# Description
 
 In EPISTOP project, 101 patients with TSC mutation causing uncontrolled growth of benign tumors were followed up since birth till 2 year of life to observe the epileptogenesis process. The blood were sampled from those patients in 3 or 4 defined moment of seizures development. After that, all of the samples were sequenced. Moreover, EEG, MRI and neuropsychological studies were performed to asses patients? condition and the clinical data were collected. Together 33 TB of data were gathered and more than 60 thousands of features were tested to select potential signs of epilepsy, given the patient condition and the outcome at 2 year of life. Multiple steps were performed in order to extract pattern from the high-dimensional data. Eventually, the goal of the analysis were to correctly point out those patients with increased risk of developing epilepsy in first 2 years of life.  
 

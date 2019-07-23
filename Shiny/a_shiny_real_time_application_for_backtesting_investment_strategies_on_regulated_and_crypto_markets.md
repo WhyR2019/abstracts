@@ -4,7 +4,7 @@ Author: Pawel Sakowski (QFRG WNE UW)
 
 Co-authors: Przemyslaw Rys
 
-# Descripition
+# Description
 
 Our study presents results of application of widely known asset allocation model proposed by Markowitz (1952) on regular and crypto markets. Our strategies are constructed with most important world equity indices and largest cryptocurrencies (in terms of market capitalization) on daily data for the last five years.  
 

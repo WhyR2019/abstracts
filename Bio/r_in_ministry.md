@@ -4,7 +4,7 @@ Author: Piotr Nowosielski (Ministry of Health Republic of Poland)
 
 Co-authors: Michal Walczynski, Mariusz Zieba, Klaudiusz Witczak, Filip Wojciechowski
 
-# Descripition
+# Description
 
 The R language was introduced in the Analyses and Strategies Department of the Ministry of Health in 2015.
 Since then MS Excel is no longer used as an analytic tool.

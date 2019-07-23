@@ -2,7 +2,7 @@
 
 Author: Olga Mierzwa-Sulima (Senior data scientist at Appsilon)
 
-# Descripition
+# Description
 
 There is a lot of hype around AI on the current market, which drives the demand for data scientists. However, there are a lot of misconceptions about what the data scientist actually does from day to day.
  
