@@ -2,7 +2,7 @@
 
 Author: Patrik Drhlík (Freelance Data Scientist)
 
-# Descripition
+# Description
 
 I'll show a project where I developed an R package that uses a main R6 class that connects to a remote production or local development PHP server.
 

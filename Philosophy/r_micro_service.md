@@ -2,7 +2,7 @@
 
 Author: Colin Fay Fay (ThinkR)
 
-# Descripition
+# Description
 
 To some extent, the microservice philosophy has been there since the beginning of unix: as the first rule of the unix philosophy states, "write programs that do one thing and do it well". 
 

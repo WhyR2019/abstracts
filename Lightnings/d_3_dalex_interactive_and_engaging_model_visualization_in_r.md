@@ -2,7 +2,7 @@
 
 Author: Hubert Baniecki (MI2 MiNI PW)
 
-# Descripition
+# Description
 
 Hubert Baniecki
 

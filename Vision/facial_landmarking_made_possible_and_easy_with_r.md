@@ -2,7 +2,7 @@
 
 Author: Lubomir Stepanek (Institute of Biophysics and Informatics, First Faculty of Medicine, Charles University)
 
-# Descripition
+# Description
 
 R language is definitely a powerful tool well suitable for most analytical tasks arising from an everyday routine of a scientist or data analyst. However, there are fields of data processing which R is not so much native for and other languages or tools such as Python or Octave are preferred to handle them. Some of these fields are image processing and computer vision and particularly facial computer where there are barely original R packages currently available for.
 

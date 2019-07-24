@@ -4,7 +4,7 @@ Author: Michel Voss (UEP)
 
 Co-authors: Maciej Beresewicz
 
-# Descripition
+# Description
 
 The main goal of the article is to present the results of a study on the use of deep learning networks to detect solar panels based on aerial images of Poznan. In addition, the main motivation is to obtain more detailed information about the use of solar energy in Poland drawing on big data sources, which until now have not been used for this purpose.
 

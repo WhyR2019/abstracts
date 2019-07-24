@@ -4,7 +4,7 @@ Author: Adam Bień (SKN Estymator (Poznan University of Economics and Business))
 
 Co-authors: Maciej Beresewicz
 
-# Descripition
+# Description
 
 The main goal of this presentation is an application of Latent Dirichlet Allocation model (LDA) on data scraped from Chancellery of the Prime Minister’s official website (https://nabory.kprm.gov.pl), containing characteristics concerning each job offer published on mentioned page. The LDA model’s purpose is to determine what topics the job offers’ descriptions consist of and use that information to approximate demand on the labour market.
 

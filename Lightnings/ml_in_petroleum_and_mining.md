@@ -2,7 +2,7 @@
 
 Author: Nastya Adamova (ModelTech)
 
-# Descripition
+# Description
 
 AI for mining engineers (case) 
 

@@ -2,7 +2,7 @@
 
 Author: Tomasz Żółtak (Educational Research Institute, Warsaw, Poland)
 
-# Descripition
+# Description
 
 There is a widespread opinion that preparing good looking tables in R is hard. That's not true! Simply some great tools to work with tables in R are not so widely known. On this talk you'll have an opportunity to learn what are these tools and how to use them. Talk will consist of 4 parts:
 

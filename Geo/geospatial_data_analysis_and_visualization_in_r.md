@@ -2,7 +2,7 @@
 
 Author: Çizmeli Servet Ahmet (PranaGEO LTD)
 
-# Descripition
+# Description
 
 
 Analysis of geospatial data requires specialized software tools. The R ecosystem provides a rich set of powerful open source packages that make it possible to work with geospatial data. In this workshop we provide hands-on exercises with real datasets. We will learn how to import geospatial data in R, make interactive maps, convert between different formats and map projections. We will experiment on spatial queries and perform basic statistical analyses. This is a hands-on workshop so attendees are expected to bring a laptop.

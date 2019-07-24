@@ -2,7 +2,7 @@
 
 Author: Lidia Kolakowska (Sotrender)
 
-# Descripition
+# Description
 
 Cleaning and preparing data for analysis is one of the most time-consuming stages in the analyst's work. This process is further prolonged and can be frightening when data is available as nested lists. An example can be data received for analysis in JSON format, downloaded directly from API or non-relational database such as MongoDB. 
 

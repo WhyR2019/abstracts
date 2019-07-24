@@ -4,7 +4,7 @@ Author: Anne Bras (Erasmus University, the Netherlands)
 
 Co-authors: Vincent van der Velden 
 
-# Descripition
+# Description
 
 Inder Taneja (an Indian mathematician) attempted to write the integers from 1 up to 11111 in terms of 1 to 9 (in increasing and decreasing order) by using addition, subtraction, multiplication, division, exponentiation, parenthesis and/or digit concatenation. For example:
 

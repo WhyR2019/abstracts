@@ -4,7 +4,7 @@ Author: Jaroslaw Chilimoniuk (University of Wroclaw)
 
 Co-authors: Michal Burdukiewicz, Piotr Sobczyk Stefan R?diger, Malgorzata Kotulska and Pawel Mackiewicz
 
-# Descripition
+# Description
 
 Amyloids are proteins associated with important clinical disorders (e.g., Alzheimer's or Creutzfeldt-Jakob"s diseases). Despite their great diversity, all amyloid proteins can undergo their aggregation initiated by 6- to 15-residue segments. The structure and the function of proteins are encoded in the linear sequence of amino acids. But the aggregation propensity seems to not depend on the exact amino acid residues, but rather on their physicochemical properties. Therefore, we created a model of amyloidogenicity incorporating this knowledge.
 
