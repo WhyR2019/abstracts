@@ -4,10 +4,6 @@ Author: Hubert Baniecki (MI2 MiNI PW)
 
 # Description
 
-Hubert Baniecki
-
-D3 + DALEX = interactive and engaging model visualization in R
-
 Static and dull plots might not be enough anymore. We are inevitably growing into fast paced society. The demand for responsive virtual reality has vastly increased these days.
 
 The answer to that trend is the generic plotD3 function. It uses r2d3 package as an interface to D3 visualizations in R. D3.js is a JavaScript library for manipulating documents based on data. It really helps you bring your data to life. Using r2d3 allows us to produce interactive and animated plots that provide more value and great scalability.  
