@@ -22,7 +22,7 @@ list.files() %>%
       all_lines <- readLines(ith_file)
       
       c(sub("#", "###", all_lines[1]), sub("#", "####", all_lines[-1]))
-    }), use.names = FALSE))
+    }), use.names = FALSE), "\n\\pagebreak\n")
   }) %>% 
   unlist(use.names = FALSE) %>% 
   writeLines(con = "all-abstracts.md")
