@@ -19,7 +19,8 @@ list.files() %>%
   lapply(function(ith_dir) {
     c(paste0("## ", ith_dir, "\n"), 
       unlist(lapply(list.files(path = paste0("./", ith_dir), full.names = TRUE), function(ith_file) {
-      all_lines <- readLines(ith_file)
+      all_lines <- readLines(ith_file) %>% 
+        stringi::stri_encode(from = "WINDOWS-1252", to = "UTF-8")
       
       c(sub("#", "###", all_lines[1]), sub("#", "####", all_lines[-1]))
     }), use.names = FALSE), "\n\\pagebreak\n")
