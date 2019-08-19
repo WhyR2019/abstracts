@@ -1,5 +1,7 @@
 # Why R? 2019 Abstracts
 
+This repository consist of abstracts for presentations. The abstracts of workshops can be found [here](https://github.com/WhyR2019/workshops)
+
 <img src="https://raw.githubusercontent.com/WhyR2019/abstracts/master/agenda2.jpg"
      alt="agenda" />
 
@@ -27,7 +29,7 @@
   </tr>
   <tr>
     <td>09:00:09:45</td>
-    <td rowspan="5">Morning Workshops</td>
+    <td rowspan="5"><a href="https://github.com/WhyR2019/workshops">Morning Workshops</a></td>
     <td colspan="2">Marvin Wright</td>
     <td colspan="2">Steph Locke</td>
   </tr>
@@ -63,7 +65,7 @@
   </tr>
   <tr>
     <td>14:05-14:50</td>
-    <td rowspan="6">Afternoon Workshops</td>
+    <td rowspan="6"><a href="https://github.com/WhyR2019/workshops">Afternoon Workshops</a></td>
     <td colspan="2">Jakub Nowosad</td>
     <td colspan="2">Wit Jakuczun</td>
   </tr>

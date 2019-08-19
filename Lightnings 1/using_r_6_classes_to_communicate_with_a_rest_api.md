@@ -1,6 +1,6 @@
 # Using R6 classes to communicate with a REST API
 
-Author: Patrik Drhlík (Freelance Data Scientist)
+Author: Patrik Drhlik (Freelance Data Scientist)
 
 # Description
 
