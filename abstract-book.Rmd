@@ -32,7 +32,7 @@ list.files() %>%
 
 # Introduction
 
-Words, words
+The purpose of Why R? is to provide the space for the professional networking and knowledge exchange, between practitioners and students, from the area of statistical machine learning, programming, optimization and data science fields.
 
 # List of presentations
 
