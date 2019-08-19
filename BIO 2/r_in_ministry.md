@@ -1,4 +1,4 @@
-# R in Ministry
+# R in Ministry of Health
 
 Author: Piotr Nowosielski (Ministry of Health Republic of Poland)
 
