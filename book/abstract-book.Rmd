@@ -1,14 +1,12 @@
 ---
-title: "NIEMYTEKST"
-author: "NIEMYTEKST"
-date: "NIEMYTEKST"
 output: 
   pdf_document: 
     includes:
-      in_header: preamble.tex
       before_body: frontmatter.tex
+      in_header: preamble.tex
     toc: yes
-    toc_depth: 3
+documentclass: book
+subparagraph: yes
 ---
 
 ```{r setup, include=FALSE, echo=FALSE}
@@ -27,7 +25,7 @@ list.files() %>%
       unlist(lapply(list.files(path = paste0("./", ith_dir), full.names = TRUE), function(ith_file) {
       all_lines <- readLines(ith_file) # %>% stringi::stri_encode(from = "WINDOWS-1252", to = "UTF-8")
       
-      c(sub("#", "###", all_lines[1]), sub("#", "####", all_lines[-1]))
+      c(sub("#", "###", all_lines[1]), sub("^#", "####", all_lines[-1]), "")
     }), use.names = FALSE), "\n\\pagebreak\n")
   }) %>% 
   unlist(use.names = FALSE) %>% 
@@ -38,7 +36,6 @@ list.files() %>%
 # Introduction
 
 The purpose of Why R? is to provide the space for the professional networking and knowledge exchange, between practitioners and students, from the area of statistical machine learning, programming, optimization and data science fields.
-
 
 ## Participants
 
