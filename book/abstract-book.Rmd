@@ -1,7 +1,7 @@
 ---
-title: ""
-author: ""
-date: ""
+title: "NIEMYTEKST"
+author: "NIEMYTEKST"
+date: "NIEMYTEKST"
 output: 
   pdf_document: 
     includes:
@@ -38,6 +38,11 @@ list.files() %>%
 # Introduction
 
 The purpose of Why R? is to provide the space for the professional networking and knowledge exchange, between practitioners and students, from the area of statistical machine learning, programming, optimization and data science fields.
+
+
+## Participants
+
+The Why R? events are aimed at experienced data science practitioners although each conference gathers a significant percentage of students (~30%). Our participants recruit from very diverse backgrounds with a clear domination of mathematics (especially statistics) and computer science. All of them have occupations related to data science, including professional R developers (programmers), data engineers, machine learning practitioners and business analysts. One of the key advantages of Why R? is its ability to attract participants both from academia and industry.
 
 # List of presentations
 
