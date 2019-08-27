@@ -2,7 +2,7 @@
 
 Author: Jaroslaw Chilimoniuk (University of Wroclaw)
 
-Co-authors: Michal Burdukiewicz, Piotr Sobczyk Stefan R?diger, Malgorzata Kotulska and Pawel Mackiewicz
+Co-authors: Michal Burdukiewicz, Piotr Sobczyk, Stefan Rödiger, Malgorzata Kotulska and Pawel Mackiewicz
 
 # Description
 
