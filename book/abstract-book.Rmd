@@ -41,6 +41,12 @@ The purpose of Why R? is to provide the space for the professional networking an
 
 The Why R? events are aimed at experienced data science practitioners although each conference gathers a significant percentage of students (~30%). Our participants recruit from very diverse backgrounds with a clear domination of mathematics (especially statistics) and computer science. All of them have occupations related to data science, including professional R developers (programmers), data engineers, machine learning practitioners and business analysts. One of the key advantages of Why R? is its ability to attract participants both from academia and industry.
 
+## Pre-meetings
+
+![Why R? 2019 pre-meetings.](figures/europa_whyr2019_wieden.jpg)
+
+In 2019, Why R? 2019 was preceded by twelve pre-meetings in seven countries.
+
 # List of presentations
 
 ```{r, child="all-abstracts.md"}
