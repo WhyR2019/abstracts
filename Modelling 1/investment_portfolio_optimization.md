@@ -1,6 +1,6 @@
 # Investment Portfolio Optimization
 
-Author: Michał	Podsiadło
+Author: Michał Podsiadło
 
 # Description
 

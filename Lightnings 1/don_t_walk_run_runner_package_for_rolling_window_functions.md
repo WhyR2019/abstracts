@@ -1,6 +1,6 @@
 # Don't walk, run! runner package for rolling window functions.
 
-Author: Dawid Kaledkowski ()
+Author: Dawid Kaledkowski
 
 # Description
 
