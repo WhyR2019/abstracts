@@ -52,4 +52,20 @@ In 2019, Why R? 2019 was preceded by twelve pre-meetings in seven countries.
 ```{r, child="all-abstracts.md"}
 ```
 
+# List of speakers
 
+```{r, echo=FALSE,warning=FALSE,results='asis'}
+all_lines <- readLines("book/all-abstracts.md")
+
+splitted_names <- all_lines[grepl("Author: ", all_lines)] %>% 
+  gsub("Author: ", "", .) %>% 
+  strsplit("(", fixed = TRUE) %>% 
+  sapply(function(i) i[1]) %>% 
+  strsplit(" ")
+
+sapply(splitted_names, function(i)
+  paste0(i[length(i)], ", ", paste0(i[-length(i)], collapse = " "))) %>% 
+  sort %>% 
+  cat(sep = "\n\n")
+
+```
