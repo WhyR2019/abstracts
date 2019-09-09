@@ -32,7 +32,7 @@
 	top=3cm, % Top margin
 	bottom=3cm, % Bottom margin
 	left=3cm, % Left margin
-	right=3cm, % Right margin
+	right=3.5cm, % Right margin
 	headheight=14pt, % Header height
 	footskip=1.4cm, % Space from the bottom margin to the baseline of the footer
 	headsep=10pt, % Space from the top margin to the baseline of the header
@@ -49,7 +49,7 @@
 
 \pagestyle{fancy} % Enable the custom headers and footers
 
-\renewcommand{\chaptermark}[1]{\markboth{\sffamily\normalsize\bfseries\chaptername\ \thechapter.\ #1}{}} % Styling for the current chapter in the header
+\renewcommand{\chaptermark}[1]{\markboth{\sffamily\normalsize\bfseries\ \thechapter.\ #1}{}} % Styling for the current chapter in the header
 \renewcommand{\sectionmark}[1]{\markright{\sffamily\normalsize\thesection\hspace{5pt}#1}{}} % Styling for the current section in the header
 
 \fancyhf{} % Clear default headers and footers
@@ -135,7 +135,8 @@
 	{\ \titlerule*[.5pc]{.}\;\thecontentspage} % Formatting of the filler to the right of the heading and the page number
 
 \makeatletter
-\renewcommand{\@seccntformat}[1]{\llap{\textcolor{ocre}{\csname the#1\endcsname}\hspace{1em}}}                    
+\renewcommand{\@seccntformat}[1]{\llap{\textcolor{ocre}{\csname the#1\endcsname}\hspace{1em}}}    
+
 \renewcommand{\section}{\@startsection{section}{1}{\z@}
 {-4ex \@plus -1ex \@minus -.4ex}
 {1ex \@plus.2ex }
@@ -166,4 +167,7 @@
 	\noindent\colorbox{ocre!40}{\strut\parbox[c][.7cm]{\linewidth}{\Large\sffamily\centering#1}}%
 }
 
+% chapter styling
+\titleformat{\chapter}[hang] 
+{\color{ocre}\Large\sffamily\bfseries}{ \thechapter.}{1em}{} 
 
