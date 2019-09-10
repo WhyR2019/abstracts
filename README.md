@@ -79,7 +79,7 @@ This repository consist of abstracts for presentations. The abstracts of worksho
     <td><a href="https://github.com/WhyR2019/abstracts/tree/master/BIO%201">BIO 1</a></td>
     <td><a href="https://github.com/WhyR2019/abstracts/tree/master/Geo">GEO</a></td>
     <td><a href="https://github.com/WhyR2019/abstracts/tree/master/Vision%201">Vision 1</a></td>
-    <td><a href="https://github.com/WhyR2019/abstracts/tree/master/">Lightning 1</a></td>
+    <td><a href="https://github.com/WhyR2019/abstracts/tree/master/Lightnings%201">Lightning 1</a></td>
   </tr>
   <tr>
     <td>16:05:16:20</td>
@@ -90,8 +90,8 @@ This repository consist of abstracts for presentations. The abstracts of worksho
     <td>16:20-17:20</td>
     <td><a href="https://github.com/WhyR2019/abstracts/tree/master/BIO%202">BIO 2</a></td>
     <td><a href="https://github.com/WhyR2019/abstracts/tree/master/Business">Business</a></td>
-    <td><a href="https://github.com/WhyR2019/abstracts/tree/master/Vision%202">Vision 1</a></td>
-    <td><a href="https://github.com/WhyR2019/abstracts/tree/master/">Lightning 1</a></td>
+    <td><a href="https://github.com/WhyR2019/abstracts/tree/master/Vision%202">Vision 2</a></td>
+    <td><a href="https://github.com/WhyR2019/abstracts/tree/master/Lightnings%202">Lightning 2</a></td>
   </tr>
   <tr>
     <td>17:20-17:35</td>
