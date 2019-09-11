@@ -68,6 +68,7 @@ splitted_names <- all_lines[grepl("Author: ", all_lines)] %>%
 sapply(splitted_names, function(i)
   paste0(i[length(i)], ", ", paste0(i[-length(i)], collapse = " "))) %>% 
   sort %>% 
+  paste0("1. ", .) %>% 
   cat(sep = "\n\n")
 
 ```
