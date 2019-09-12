@@ -1,4 +1,4 @@
-# modelling ROC curves, simulating profit increase in risk-based pricing regime and combining correlated scorecards
+# Benefits of better credit scoring
 
 Author: Blazej Kochanski (Politechnika Gdanska)
 
