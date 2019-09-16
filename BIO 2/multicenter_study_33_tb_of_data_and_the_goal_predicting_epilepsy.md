@@ -1,6 +1,6 @@
 # Multicenter study, 33 TB of data and the goal: predicting epilepsy
 
-Author: Glowacka Jagoda (Transition Technologies S.A.)
+Author: Jagoda Glowacka (Transition Technologies S.A.)
 
 Co-authors: Kamil Sijko, Konrad Wojdan
 
