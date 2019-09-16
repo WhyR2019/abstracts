@@ -1,4 +1,4 @@
-# D3 + DALEX = deep interactive model explanations in R
+# D3 + DALEX = Interactive Studio with Explanations for ML Predictive Models in R
 
 Author: Hubert Baniecki (MI2 MiNI PW)
 
@@ -10,6 +10,6 @@ The answer to that trend is the generic plotD3 function. It uses r2d3 package as
 
 We can greatly benefit from implementing and using plotD3 functions in R packages. Authors can present their ideas in various shapes or forms and easily indicate valuable information. Users get to experience visualisation on another level. It all comes at a cost of learning D3 and maintaining more code.
 
-Explainable AI is a hot topic nowadays. Tools like DALEX, iBreakDown, auditor and many others came into existence to answer one simple question 'Why?'. Improving these explainers with interactive visualization makes them simply powerful. plotD3 allows for interactions between multiple plots that are not possible with more traditional tools out there like ggplot2. It is also free from client-server relationship. This is where it shines and as an example I can present the **dime** package.
+Explainable AI is a hot topic nowadays. Tools like DALEX, iBreakDown, auditor and many others came into existence to answer one simple question 'Why?'. Improving these explainers with interactive visualization makes them simply powerful. plotD3 allows for interactions between multiple plots that are not possible with more traditional tools out there like ggplot2. It is also free from client-server relationship. This is where it shines and as an example I can present the **modelStudio** package.
 
-Links: https://modeloriented.github.io/dime/
+Links: https://modeloriented.github.io/modelStudio  https://CRAN.R-project.org/package=modelStudio
