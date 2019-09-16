@@ -1,6 +1,6 @@
 # Forecasting rental prices of flats in Krakow
 
-Author: Wolak Jacek (AGH University of Science and Technology)
+Author: Jacek Wolak (AGH University of Science and Technology)
 
 Co-authors: Jalocha Mateusz
 
