@@ -30,8 +30,8 @@ This repository consist of abstracts for presentations. The abstracts of worksho
   <tr>
     <td>09:00:09:45</td>
     <td rowspan="5"><a href="https://github.com/WhyR2019/workshops">Morning Workshops</a></td>
-    <td colspan="2">Marvin Wright</td>
-    <td colspan="2">Steph Locke</td>
+    <td colspan="2">Marvin Wright (room A)</td>
+    <td colspan="2">Steph Locke (room A)</td>
   </tr>
   <tr>
     <td>09:45-10:00</td>
@@ -40,10 +40,10 @@ This repository consist of abstracts for presentations. The abstracts of worksho
   </tr>
   <tr>
     <td>10:00-11:20</td>
-    <td><a href="https://github.com/WhyR2019/abstracts/tree/master/Modelling%201">Modelling 1</a></td>
-    <td><a href="https://github.com/WhyR2019/abstracts/tree/master/Shiny">Shiny</a></td>
-    <td><a href="https://github.com/WhyR2019/abstracts/tree/master/Philosophy">Philosophy</a></td>
-    <td><a href="https://github.com/WhyR2019/abstracts/tree/master/Modelling%202">Modelling 2</a></td>
+    <td><a href="https://github.com/WhyR2019/abstracts/tree/master/Shiny">Shiny (room A)</a></td>
+    <td><a href="https://github.com/WhyR2019/abstracts/tree/master/Modelling%201">Modelling 1 (room B)</a></td>
+    <td><a href="https://github.com/WhyR2019/abstracts/tree/master/Philosophy">Philosophy (room A)</a></td>
+    <td><a href="https://github.com/WhyR2019/abstracts/tree/master/Modelling%202">Modelling 2 (room B)</a></td>
   </tr>
   <tr>
     <td>11:20-11:35</td>
@@ -52,10 +52,10 @@ This repository consist of abstracts for presentations. The abstracts of worksho
   </tr>
   <tr>
     <td>11:35-12:35</td>
-    <td><a href="https://github.com/WhyR2019/abstracts/tree/master/API">API</a></td>
-    <td><a href="https://github.com/WhyR2019/abstracts/tree/master/Scoring">Scoring</a></td>
-    <td><a href="https://github.com/WhyR2019/abstracts/tree/master/EDA">EDA</a></td>
-    <td><a href="https://github.com/WhyR2019/abstracts/tree/master/XAI">XAI</a></td>
+    <td><a href="https://github.com/WhyR2019/abstracts/tree/master/Scoring">Scoring (room A)</a></td>
+    <td><a href="https://github.com/WhyR2019/abstracts/tree/master/API">API (room B)</a></td>
+    <td><a href="https://github.com/WhyR2019/abstracts/tree/master/XAI">XAI (room A)</a></td>
+    <td><a href="https://github.com/WhyR2019/abstracts/tree/master/EDA">EDA (room B)</a></td>
   </tr>
   <tr>
     <td>12:35-14:05</td>
@@ -66,8 +66,8 @@ This repository consist of abstracts for presentations. The abstracts of worksho
   <tr>
     <td>14:05-14:50</td>
     <td rowspan="6"><a href="https://github.com/WhyR2019/workshops">Afternoon Workshops</a></td>
-    <td colspan="2">Jakub Nowosad</td>
-    <td colspan="2">Wit Jakuczun</td>
+    <td colspan="2">Jakub Nowosad (room A)</td>
+    <td colspan="2">Wit Jakuczun (room A)</td>
   </tr>
   <tr>
     <td>14:50-15:05</td>
@@ -76,10 +76,10 @@ This repository consist of abstracts for presentations. The abstracts of worksho
   </tr>
   <tr>
     <td>15:05-16:05</td>
-    <td><a href="https://github.com/WhyR2019/abstracts/tree/master/BIO%201">BIO 1</a></td>
-    <td><a href="https://github.com/WhyR2019/abstracts/tree/master/Geo">GEO</a></td>
-    <td><a href="https://github.com/WhyR2019/abstracts/tree/master/Vision%201">Vision 1</a></td>
-    <td><a href="https://github.com/WhyR2019/abstracts/tree/master/Lightnings%201">Lightning 1</a></td>
+    <td><a href="https://github.com/WhyR2019/abstracts/tree/master/Geo">GEO (room A)</a></td>
+    <td><a href="https://github.com/WhyR2019/abstracts/tree/master/BIO%201">BIO 1 (room B)</a></td>
+    <td><a href="https://github.com/WhyR2019/abstracts/tree/master/Lightnings%201">Lightning 1 (room A)</a></td>
+    <td><a href="https://github.com/WhyR2019/abstracts/tree/master/Vision%201">Vision 1 (room B)</a></td>
   </tr>
   <tr>
     <td>16:05:16:20</td>
@@ -88,10 +88,10 @@ This repository consist of abstracts for presentations. The abstracts of worksho
   </tr>
   <tr>
     <td>16:20-17:20</td>
-    <td><a href="https://github.com/WhyR2019/abstracts/tree/master/BIO%202">BIO 2</a></td>
-    <td><a href="https://github.com/WhyR2019/abstracts/tree/master/Business">Business</a></td>
-    <td><a href="https://github.com/WhyR2019/abstracts/tree/master/Vision%202">Vision 2</a></td>
-    <td><a href="https://github.com/WhyR2019/abstracts/tree/master/Lightnings%202">Lightning 2</a></td>
+    <td><a href="https://github.com/WhyR2019/abstracts/tree/master/Business">Business (room A)</a></td>
+    <td><a href="https://github.com/WhyR2019/abstracts/tree/master/BIO%202">BIO 2 (room B)</a></td>
+    <td><a href="https://github.com/WhyR2019/abstracts/tree/master/Lightnings%202">Lightning 2 (room A)</a></td>
+    <td><a href="https://github.com/WhyR2019/abstracts/tree/master/Vision%202">Vision 2 (room B)</a></td>
   </tr>
   <tr>
     <td>17:20-17:35</td>
@@ -101,8 +101,8 @@ This repository consist of abstracts for presentations. The abstracts of worksho
   <tr>
     <td>17:35-18:20</td>
     <td>Coffee Break</td>
-    <td colspan="2">Sigrid Keydana</td>
-    <td colspan="2">Paula Brito</td>
+    <td colspan="2">Sigrid Keydana (room A)</td>
+    <td colspan="2">Paula Brito (room A)</td>
   </tr>
   <tr>
     <td>18:20-18:40</td>
