@@ -1,6 +1,8 @@
 # Shiny application for algorithmic trading
 
-Authors: Tomasz Koc, Piotr Wójcik (University of Warsaw)
+Author: Tomasz Koc (University of Warsaw)
+
+Co-authors: Piotr Wójcik (University of Warsaw)
 
 # Description
 

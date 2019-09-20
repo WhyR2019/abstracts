@@ -1,6 +1,8 @@
 # Challenges of Shiny application development at scale
 
-Atuhors: Jakub Małecki, Jakub Stepniak (Analyx)
+Author: Jakub Małecki (Analyx)
+
+Co-author: Jakub Stepniak (Analyx)
 
 # Description 
 

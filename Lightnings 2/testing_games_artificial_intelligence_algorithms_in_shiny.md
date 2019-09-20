@@ -1,6 +1,6 @@
 # Testing games artificial intelligence algorithms in Shiny
 
-Authors: Łukasz Wawrowski (DOJI S.A., Poznań University of Economics and Business)
+Author: Łukasz Wawrowski (DOJI S.A., Poznań University of Economics and Business)
 
 # Description
 

@@ -60,6 +60,16 @@ In 2019, Why R? 2019 was preceded by twelve pre-meetings in seven countries.
 ```{r, echo=FALSE,warning=FALSE,results='asis'}
 all_lines <- readLines("book/all-abstracts.md")
 
+# data.frame(author = all_lines[grepl("Author: ", all_lines)] %>% 
+#              gsub("Author: ", "", .) %>% 
+#              strsplit("(", fixed = TRUE) %>% 
+#              sapply(function(i) i[1]),
+#            title = all_lines[grepl("^### ", all_lines)] %>% 
+#              gsub("^### ", "", .) %>% 
+#              strsplit("(", fixed = TRUE) %>% 
+#              sapply(function(i) i[1])) %>% 
+#   write.csv(file = "author_title_df.csv", row.names = FALSE)
+
 splitted_names <- all_lines[grepl("Author: ", all_lines)] %>% 
   gsub("Author: ", "", .) %>% 
   strsplit("(", fixed = TRUE) %>% 
