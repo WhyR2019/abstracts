@@ -1,6 +1,6 @@
 # A Case Study for Image Classification using Transfer Learning
 
-Author: Olgun AYDIN (Senior Data Scientist / PwC)
+Author: Olgun Aydin (Senior Data Scientist / PwC)
 
 # Description
 
