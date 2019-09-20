@@ -3,6 +3,7 @@ output:
   pdf_document: 
     includes:
       before_body: frontmatter.tex
+      after_body: backmatter.tex
       in_header: preamble.tex
     toc: yes
 documentclass: book
