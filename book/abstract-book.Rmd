@@ -44,9 +44,11 @@ The Why R? events are aimed at experienced data science practitioners although e
 
 ## Pre-meetings
 
-![Why R? 2019 pre-meetings.](figures/europa_whyr2019_wieden.jpg)
+![Why R? 2019 pre-meetings.](figures/europa_whyr2019_bauchi.jpg)
 
-In 2019, Why R? 2019 was preceded by twelve pre-meetings in seven countries.
+In 2019, Why R? 2019 was preceded by fourteen pre-meetings in eight countries. The purpose of those meetings is to provide the space for the professional networking and knowledge exchange, between practitioners and students, from the area of statistical machine learning, programming, optimization and data science fields. The Why R? Foundation supports organisation of pre-meetings, either financially and/or through sending speakers.
+
+The organisation of pre-meeting would not be possible without a wonderful support of local R communities. Aside from the promotion of Why R?, we had a great opportunity to interact with other R enthusiasts.
 
 # Presentations
 
