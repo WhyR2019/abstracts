@@ -1,8 +1,8 @@
 # NLP models for the masses with the Quanteda package and a Shiny interface
 
-Author: Ken Benoit
+Author: Ken Benoit (London School of Economics)
 
-Co-author: Damian Rodziewicz
+Co-author: Damian Rodziewicz (Appsilon Data Science)
 
 # Description
 
